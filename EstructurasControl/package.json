@@ -1,0 +1,16 @@
+{
+  "name": "estructurascontrol",
+  "version": "1.0.0",
+  "description": "Estructuras de control JS, if/else/switch/for/while",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "estructuras",
+    "control",
+    "bucles"
+  ],
+  "author": "Esteban Fortini",
+  "license": "ISC"
+}
